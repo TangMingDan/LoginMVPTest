@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item android:title="日程"
+            android:icon="@drawable/calendar"/>
+        <item android:title="文件"
+            android:icon="@drawable/file"/>
+        <item android:title="邮箱"
+            android:icon="@drawable/email"/>
+        <item android:title="电话"
+            android:icon="@drawable/phone"/>
+        <item android:title="钱包"
+            android:icon="@drawable/purse"/>
+        <item android:title="好友动态"
+            android:icon="@drawable/friends"/>
+    </group>
+</menu>
